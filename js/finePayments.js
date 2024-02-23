@@ -1,5 +1,5 @@
 "use strict";
-// check
+
 let fineNumber = document.getElementById("fineNumber");
 let passport = document.getElementById("passport");
 let creditCardNumber = document.getElementById("creditCardNumber");
@@ -58,3 +58,4 @@ function validateFields() {
         alert("Штраф оплачено!")
     }
     });
+
